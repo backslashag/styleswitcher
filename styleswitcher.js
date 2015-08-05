@@ -1,3 +1,17 @@
+/*
+ * Copyright (C) 2015 backslash - artists of new media (info@backslash.ch)
+ * 
+ * This work is licensed under the Creative Commons
+ * Attribution 3.0 Unported License. To view a copy
+ * of this license, visit
+ * http://creativecommons.org/licenses/by/3.0/.
+ *  
+ * When using this software you use it at your own risk. We hold
+ * no responsibility for any damage caused by using this plugin
+ * or the documentation provided.
+ *
+ * Version 1.0.0
+ */
 var bs_styleswitch = {
 	defaults : {
 		titleprefix : 'fontsize',
