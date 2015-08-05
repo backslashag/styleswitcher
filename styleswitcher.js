@@ -16,7 +16,7 @@ var bs_styleswitch = {
 	defaults : {
 		titleprefix : 'fontsize',
 		chooserelement : '#styleswitcher',
-		displaychooser : false,
+		displaychooser : true,
 		cssfiles : [],
 		enableiframe : false
 		}
